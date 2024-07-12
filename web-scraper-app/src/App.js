@@ -23,7 +23,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Web Scraper</h1>
+            <h1>Teste Neogrid Web Scraper</h1>
             <div>
                 <input
                     type="text"
