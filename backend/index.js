@@ -49,7 +49,7 @@ class ProductScraper {
         console.log('pagina', c);
         await this.page.goto(link);
         await this.page.waitForSelector('.product-name');
-
+        //busca sem validação
         // const title = await page.$eval('.product-name', element => element.innerText);
         const title = await this.page.evaluate(() => {
             const tl = document.querySelector('.product-name');
