@@ -1,10 +1,8 @@
 # Teste Neogrid Web Scraper com Node.js e React
 
-Este projeto é uma aplicação web que permite ao usuário realizar scraping de produtos do site Netshoes. A aplicação é composta por um backend em Node.js que utiliza Puppeteer para realizar o scraping e um frontend em React para exibir os resultados. Como escrito na descrissão retorna  (título, preço, imagem, descrição), e esta presente o bônus do input com um adicional de o usuario conseguir inserir o numero de produtos que deseja chamar. Como maior adicional um interface em front para que o usuario tenha melhor visibilidade dos resultados e da sua aplicação.
+Este projeto é uma aplicação web que permite ao usuário realizar scraping de produtos do site Netshoes. A aplicação é composta por um backend em Node.js que utiliza Puppeteer para realizar o scraping e um frontend em React para exibir os resultados. Como descrito, a aplicação retorna (título, preço, imagem, descrição) e permite ao usuário inserir o número de produtos que deseja buscar. Além disso, há uma interface frontend que oferece melhor visibilidade dos resultados e da aplicação.
 
 ## Estrutura do Projeto
-
-
 
 TesteNeogrid/
 ├── backend/
@@ -19,6 +17,7 @@ TesteNeogrid/
 │ │ └── App.js
 │ ├── package.json
 │ └── package-lock.json
+
 
 ## Funcionalidades
 
@@ -101,14 +100,15 @@ TesteNeogrid/
 - **ERRO AO REALIZAR SCRAPING:** Verifique se o seletor utilizado no Puppeteer está correto e se a página do Netshoes não mudou a estrutura.
 
 ## Autor
-Nome: Agos Dalcin Rufino
-Git https://github.com/Agos091
-Linkedin: https://www.linkedin.com/in/agos-dalcin-rufino-a9913821a/
 
+Nome: Agos Dalcin Rufino  
+GitHub: [https://github.com/Agos091](https://github.com/Agos091)  
+LinkedIn: [https://www.linkedin.com/in/agos-dalcin-rufino-a9913821a/](https://www.linkedin.com/in/agos-dalcin-rufino-a9913821a/)
 
-Observações
+## Observações
+
 Certifique-se de que as portas usadas no código (5000 para o backend e 3000 para o frontend) não estão em uso por outros serviços.
-Se você precisar ajustar a porta para o backend ou frontend, lembre-se de atualizar os URLs correspondentes no código do frontend (src/App.js).
+Se você precisar ajustar a porta para o backend ou frontend, lembre-se de atualizar os URLs correspondentes no código do frontend (`src/App.js`).
 
-Orbrigado pela oportunidade.
-Att Agos Dalcin Rufino
+Obrigado pela oportunidade.  
+Att, Agos Dalcin Rufino
