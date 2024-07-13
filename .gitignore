@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de build
+build/
+
+# Diretório de coverage
+coverage/
+
+# Arquivos de configuração de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretório de cache do npm
+.npm/
+
+# Diretório de cache do Yarn
+.yarn/
+
+# Arquivos de configuração de IDE
+.idea/
+.vscode/
+*.swp
+
+# Configurações de ambiente local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Servidor em execução
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Diretórios e arquivos de teste
+jest/
+.cucumber/
+mochawesome-report/
+.cypress/
+
+# Configurações do sistema operacional Linux
+*.sublime-workspace
+
+# Diretório de dist
+dist/
+out/
