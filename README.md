@@ -18,7 +18,6 @@ TesteNeogrid/
 │ ├── package.json
 │ └── package-lock.json
 
-
 ## Funcionalidades
 
 - Permite ao usuário inserir um termo de busca.
@@ -37,41 +36,41 @@ TesteNeogrid/
 
 1. Navegue até a pasta `backend`:
 
-    ```bash
-    cd backend
-    ```
+   ```bash
+   cd backend
+   ```
 
 2. Instale as dependências:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 3. Inicie o servidor backend:
 
-    ```bash
-    node index.js
-    ```
+   ```bash
+   node index.js
+   ```
 
 ### Passo 2: Configurar o Frontend
 
 1. Navegue até a pasta `web-scraper-app`:
 
-    ```bash
-    cd ../web-scraper-app
-    ```
+   ```bash
+   cd ../web-scraper-app
+   ```
 
 2. Instale as dependências:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 3. Inicie o servidor frontend:
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
 ### Passo 3: Acessar a Aplicação
 
@@ -109,6 +108,12 @@ LinkedIn: [https://www.linkedin.com/in/agos-dalcin-rufino-a9913821a/](https://ww
 
 Certifique-se de que as portas usadas no código (5000 para o backend e 3000 para o frontend) não estão em uso por outros serviços.
 Se você precisar ajustar a porta para o backend ou frontend, lembre-se de atualizar os URLs correspondentes no código do frontend (`src/App.js`).
+
+O limite de busca é 42 itens.
+Vesão usada do Node: (v20.15.0).
+Vesão usada do Puppeteer: (^22.13.0).
+Vesão usada do React: (^18.3.1).
+Vesão usada do Axios: (^1.7.2).
 
 Obrigado pela oportunidade.  
 Att, Agos Dalcin Rufino
