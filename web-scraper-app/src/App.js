@@ -26,11 +26,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <img
-          src="https://neogrid.com/wp-content/uploads/2024/04/logo__azul.png"
-          alt="Logo Neogrid"
-        />
-        <h1>Teste Neogrid Web Scraper</h1>
+        <h1>Web Scraper</h1>
       </div>
       <div>
         <input
