@@ -1,4 +1,4 @@
-# Teste Neogrid Web Scraper com Node.js e React
+# Web Scraper com Node.js e React
 
 Este projeto é uma aplicação web que permite ao usuário realizar scraping de produtos do site Netshoes. A aplicação é composta por um backend em Node.js que utiliza Puppeteer para realizar o scraping e um frontend em React para exibir os resultados. Como descrito, a aplicação retorna (título, preço, imagem, descrição) e permite ao usuário inserir o número de produtos que deseja buscar. Além disso, há uma interface frontend que oferece melhor visibilidade dos resultados e da aplicação.
 
