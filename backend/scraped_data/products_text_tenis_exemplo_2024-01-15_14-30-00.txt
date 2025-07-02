@@ -1,0 +1,58 @@
+# Dados extraídos para mineração de texto
+# Termo pesquisado: tenis
+# Data/Hora: 2024-01-15T14:30:00.000Z
+# Total de produtos: 5
+
+=== PRODUTO 1 ===
+Título: Tênis Nike Air Max 270
+Preço: R$ 349,90
+Descrição: Tênis Nike Air Max 270 Masculino - Preto e Branco. Conforto e estilo em cada passo. Tecnologia Air Max para máximo amortecimento.
+URL: https://www.netshoes.com.br/tenis-nike-air-max-270-masculino-preto-D05-1234-506
+Texto limpo para mineração: tenis nike air max 270 masculino preto branco conforto estilo passo tecnologia air max maximo amortecimento
+
+---
+
+=== PRODUTO 2 ===
+Título: Tênis Adidas Ultraboost 22
+Preço: R$ 799,90
+Descrição: Tênis Adidas Ultraboost 22 Masculino - Azul Marinho. Performance e responsividade incomparáveis. Tecnologia Boost para energia infinita.
+URL: https://www.netshoes.com.br/tenis-adidas-ultraboost-22-masculino-azul-D05-5678-123
+Texto limpo para mineração: tenis adidas ultraboost 22 masculino azul marinho performance responsividade incomparaveis tecnologia boost energia infinita
+
+---
+
+=== PRODUTO 3 ===
+Título: Tênis Puma RS-X³
+Preço: R$ 259,90
+Descrição: Tênis Puma RS-X³ Masculino - Cinza e Verde. Design futurista com máximo conforto. Ideal para treinos e uso casual.
+URL: https://www.netshoes.com.br/tenis-puma-rs-x3-masculino-cinza-D05-9012-789
+Texto limpo para mineração: tenis puma rs x3 masculino cinza verde design futurista maximo conforto ideal treinos uso casual
+
+---
+
+=== PRODUTO 4 ===
+Título: Tênis New Balance 990v5
+Preço: R$ 899,90
+Descrição: Tênis New Balance 990v5 Masculino - Cinza. Qualidade premium e durabilidade excepcional. Made in USA com materiais de alta qualidade.
+URL: https://www.netshoes.com.br/tenis-new-balance-990v5-masculino-cinza-D05-3456-012
+Texto limpo para mineração: tenis new balance 990v5 masculino cinza qualidade premium durabilidade excepcional made in usa materiais alta qualidade
+
+---
+
+=== PRODUTO 5 ===
+Título: Tênis Vans Old Skool
+Preço: R$ 299,90
+Descrição: Tênis Vans Old Skool Masculino - Preto e Branco. Clássico atemporal com design icônico. Perfeito para o dia a dia e estilo skatista.
+URL: https://www.netshoes.com.br/tenis-vans-old-skool-masculino-preto-D05-7890-345
+Texto limpo para mineração: tenis vans old skool masculino preto branco classico atemporal design iconico perfeito dia dia estilo skatista
+
+---
+
+
+=== TEXTO LIMPO PARA MINERAÇÃO ===
+
+tenis nike air max 270 masculino preto branco conforto estilo passo tecnologia air max maximo amortecimento
+tenis adidas ultraboost 22 masculino azul marinho performance responsividade incomparaveis tecnologia boost energia infinita
+tenis puma rs x3 masculino cinza verde design futurista maximo conforto ideal treinos uso casual
+tenis new balance 990v5 masculino cinza qualidade premium durabilidade excepcional made in usa materiais alta qualidade
+tenis vans old skool masculino preto branco classico atemporal design iconico perfeito dia dia estilo skatista 

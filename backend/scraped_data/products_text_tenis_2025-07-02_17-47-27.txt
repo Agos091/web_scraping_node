@@ -1,0 +1,35 @@
+# Dados extraídos para mineração de texto
+# Termo pesquisado: tenis
+# Data/Hora: 2025-07-02T20:47:42.467Z
+# Total de produtos: 1
+
+=== PRODUTO 1 ===
+Título: Tênis Adidas Coreracer Masculino - Chumbo+Preto
+Preço: 
+            R$ 170,99
+          
+Descrição:  Composição: 
+      Cabedal: Têxtil e Mesh; Entressola: EVA; Solado: Borracha e contra-salto de inspiração tecnológica
+     Indicado para: 
+      Caminhada, Corrida
+     Material: 
+      Têxtil
+     Pisada: 
+      Neutra
+     Importante: 
+      Para um melhor ajuste nos pés, recomendamos a compra de um tamanho maior do que o seu usual. Forma Pequena.
+     Garantia do Fabricante: 
+      Contra defeito de fabricação
+     
+      Ver mais
+    
+URL: https://www.netshoes.com.br/https://www.netshoes.com.br/p/tenis-adidas-coreracer-masculino-NQQ-4635-309
+Texto limpo para mineração: tênis adidas coreracer masculino chumbo preto composição cabedal têxtil e mesh entressola eva solado borracha e contra salto de inspiração tecnológica indicado para caminhada corrida material têxtil pisada neutra importante para um melhor ajuste nos pés recomendamos a compra de um tamanho maior do que o seu usual forma pequena garantia do fabricante contra defeito de fabricação ver mais
+
+---
+
+
+
+=== TEXTO LIMPO PARA MINERAÇÃO ===
+
+tênis adidas coreracer masculino chumbo preto composição cabedal têxtil e mesh entressola eva solado borracha e contra salto de inspiração tecnológica indicado para caminhada corrida material têxtil pisada neutra importante para um melhor ajuste nos pés recomendamos a compra de um tamanho maior do que o seu usual forma pequena garantia do fabricante contra defeito de fabricação ver mais
